@@ -3,7 +3,7 @@
 //  Given two folders as arguments, copies A to B recursively...
 //
 //  1. Creates files and folders which do not exist
-//  2. Overwwrites file in B when A is (a) different size or (b) modified more recently
+//  2. Overwrites file in B when A is (a) different size or (b) modified more recently
 //
 //  Command format:
 //
