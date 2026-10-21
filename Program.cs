@@ -10,8 +10,6 @@
 //  qcopy A:\a B:\b    
 //
 
-using System.Diagnostics.Tracing;
-
 internal class Program
 {
     private static void Main(string[] args)
